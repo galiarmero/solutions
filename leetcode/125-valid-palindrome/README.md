@@ -15,15 +15,15 @@ Say for example we have `"adzda"`.
 
 We can have `front` and `back` indices to track what we are comparing. Initially we have `front` = **`0`** and `back` = **`4`** to compare if `'a'` and `'a'` are the same.
 
-| <span style="color: green">0<span> | 1 | 2 | 3 | <span style="color: green">4</span> |
+| <ins>0</ins> | 1 | 2 | 3 | <ins>4</ins> |
 |---|---|---|---|---|
-| <span style="color: green">a</span> | d | z | d | <span style="color: green">a</span> |
+| <ins>a</ins> | d | z | d | <ins>a</ins> |
 
 Since they are still equal, we proceed to the next iteration, moving the indexes one position closer to the middle by increasing `front` and decreasing `back` by one. `front` = **`1`** and `back` = **`3`**. The characters are the same.
 
-| 0 | <span style="color: green">1<span> | 2 | <span style="color: green">3</span> | 4 |
+| 0 | <ins>1</ins> | 2 | <ins>3</ins> | 4 |
 |---|---|---|---|---|
-| a | <span style="color: green">d</span> | z | <span style="color: green">d</span> | a |
+| a | <ins>d</ins> | z | <ins>d</ins> | a |
 
 We can skip the next iteration since `front` and `back` would both equal to **`2`**, pointing to the same character. Since all characters compared were equal, we can conclude that the string is a palindrome.
 
