@@ -14,4 +14,3 @@ It is possible to determine the maximum profit in a single loop, thinking of eac
 At each iteration, given that day's price (`prices[i]`), the task is to determine the new `cheapestPrice` and `maxProfit`, keeping old values if no new values fit the criteria.
 
 _What happens when we encounter a new `cheapestPrice`?_ Well and good. We'll proceed with the loop and see if there's an opportunity for better profit in the coming days. If there's none, we'll stick with the `maxProfit` that we determined previously.
-
