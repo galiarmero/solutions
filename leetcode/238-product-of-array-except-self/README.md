@@ -52,14 +52,14 @@ To solve subproblem **1** and **2**, we can utilize dynamic programming to keep 
 That means to get `left[i]`, we can simply use `left[i - 1]` and multiply it with `nums[i - 1]`. This is much quicker than iterating from `nums[0]...nums[n]`.
 
 To generate the left products, we set `left[0]` to `1` since there's nothing on its left. Then proceed with the succeeding calculations.
-```
+```python
 left[0] = 1
 for i in 1...n - 1
     left[i] = left[i - 1] * nums[i - 1]
 ```
 
-For the right, it's basically the same but we start from the back, setting `right[n - 1] to 1 since it has nothing on its right.
-```
+For the right, it's basically the same but we start from the back, setting `right[n - 1]` to 1 since it has nothing on its right.
+```python
 right[n - 1] = 1
 for i in n - 2...0
     right[i] = right[i + 1] * nums[i + 1]
