@@ -1,5 +1,5 @@
 ---
-topics: array,dynamic programming
+categories: array,dynamic programming
 ---
 
 # [Coin Change](https://leetcode.com/problems/coin-change/)

@@ -4,7 +4,7 @@ Collection of my solutions to coding problems — with source code and explanati
 
 - [All Solutions](#all-solutions)
 - [Solutions By Category](#solutions-by-category)
-{% for category in by_topic.keys() %}
+{% for category in by_category.keys() %}
     * [{{ category.title() }}](#{{ category.replace(' ', '-')}})
 {% endfor %}
 
@@ -24,7 +24,7 @@ Collection of my solutions to coding problems — with source code and explanati
 
 
 ## Solutions By Category
-{% for category, solutions in by_topic.items() %}
+{% for category, solutions in by_category.items() %}
 
 
 ### {{ category.title() }}

@@ -7,9 +7,9 @@ Collection of my solutions to coding problems — with source code and explanati
     * [Array](#array)
     * [Map](#map)
     * [Set](#set)
+    * [Stack](#stack)
     * [String](#string)
     * [Dynamic Programming](#dynamic-programming)
-    * [None](#none)
 
 ## All Solutions
 
@@ -61,10 +61,18 @@ Collection of my solutions to coding problems — with source code and explanati
 | 217 | [Contains Duplicate](./leetcode/217-contains-duplicates) | [⇨](https://leetcode.com/problems/contains-duplicate/) |
 
 
+### Stack
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| 20 | [Valid Parentheses](./leetcode/20-valid-parenthesis) | [⇨](https://leetcode.com/problems/valid-parentheses/) |
+
+
 ### String
 
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
+| 20 | [Valid Parentheses](./leetcode/20-valid-parenthesis) | [⇨](https://leetcode.com/problems/valid-parentheses/) |
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
 | 125 | [Valid Palindrome](./leetcode/125-valid-palindrome) | [⇨](https://leetcode.com/problems/valid-palindrome/) |
 | 242 | [Valid Anagram](./leetcode/242-valid-anagram) | [⇨](https://leetcode.com/problems/valid-anagram/) |
@@ -76,10 +84,3 @@ Collection of my solutions to coding problems — with source code and explanati
 |--|--|--|
 | 32 | [Coin Change](./leetcode/32-coin-change) | [⇨](https://leetcode.com/problems/coin-change/) |
 | 238 | [Product of Array Except Self](./leetcode/238-product-of-array-except-self) | [⇨](https://leetcode.com/problems/product-of-array-except-self/) |
-
-
-### None
-
-| Problem ID | Solution | Problem Specs |
-|--|--|--|
-| 20 | [Valid Parentheses](./leetcode/20-valid-parenthesis) | [⇨](https://leetcode.com/problems/valid-parentheses/) |

@@ -1,5 +1,5 @@
 ---
-topics: string
+categories: string
 ---
 
 # [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)

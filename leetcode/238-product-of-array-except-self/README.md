@@ -1,5 +1,5 @@
 ---
-topics: array,dynamic programming
+categories: array,dynamic programming
 ---
 
 # [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)

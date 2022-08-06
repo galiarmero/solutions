@@ -1,5 +1,5 @@
 ---
-topics: string,array,map
+categories: string,array,map
 ---
 
 # [Group Anagrams](https://leetcode.com/problems/group-anagrams/)

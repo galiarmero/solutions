@@ -1,5 +1,5 @@
 ---
-topics: string,array
+categories: string,array
 ---
 
 # [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
