@@ -1,5 +1,5 @@
 ---
-topics: array,set
+categories: array,set
 ---
 
 # [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)

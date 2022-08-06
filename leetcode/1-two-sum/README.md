@@ -1,5 +1,5 @@
 ---
-topics: array,map
+categories: array,map
 ---
 
 # [Two Sum](https://leetcode.com/problems/two-sum/)

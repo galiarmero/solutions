@@ -1,5 +1,5 @@
 ---
-topic: string,stack
+categories: string,stack
 ---
 
 # [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
