@@ -1,0 +1,32 @@
+# 🧩 solutions
+
+Collection of my solutions to coding problems — with source code and explanation. Currently only solving on [LeetCode](https://leetcode.com/).
+
+
+## All Solutions
+{% for id, solutions in by_platform.items() %}
+
+
+### {{ platforms[id] }}
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+    {% for solution in solutions %}
+| {{ solution.problem_id }} | [{{ solution.title}}]({{ solution.path }}) | [⇨]({{ solution.link }}) |
+    {% endfor %}
+{% endfor %}
+
+
+
+## Solutions By Category
+{% for category, solutions in by_topic.items() %}
+
+
+### {{ category.title() }}
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+    {% for solution in solutions %}
+| {{ solution.problem_id }} | [{{ solution.title}}]({{ solution.path }}) | [⇨]({{ solution.link }}) |
+    {% endfor %}
+{% endfor %}
