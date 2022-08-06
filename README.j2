@@ -2,6 +2,11 @@
 
 Collection of my solutions to coding problems — with source code and explanation. Currently only solving on [LeetCode](https://leetcode.com/).
 
+- [All Solutions](#all-solutions)
+- [Solutions By Category](#solutions-by-category)
+{% for category in by_topic.keys() %}
+    * [{{ category.title() }}](#{{ category.replace(' ', '-')}})
+{% endfor %}
 
 ## All Solutions
 {% for id, solutions in by_platform.items() %}

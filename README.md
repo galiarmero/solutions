@@ -2,6 +2,14 @@
 
 Collection of my solutions to coding problems — with source code and explanation. Currently only solving on [LeetCode](https://leetcode.com/).
 
+- [All Solutions](#all-solutions)
+- [Solutions By Category](#solutions-by-category)
+    * [Array](#array)
+    * [Map](#map)
+    * [Set](#set)
+    * [String](#string)
+    * [Dynamic Programming](#dynamic-programming)
+    * [None](#none)
 
 ## All Solutions
 
