@@ -19,6 +19,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
 | 1 | [Two Sum](./leetcode/1-two-sum) | [⇨](https://leetcode.com/problems/two-sum/) |
+| 3 | [Longest Substring Without Repeating Characters](./leetcode/3-longest-substring-without-repeating-characters) | [⇨](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 20 | [Valid Parentheses](./leetcode/20-valid-parenthesis) | [⇨](https://leetcode.com/problems/valid-parentheses/) |
 | 32 | [Coin Change](./leetcode/32-coin-change) | [⇨](https://leetcode.com/problems/coin-change/) |
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
@@ -51,6 +52,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
 | 1 | [Two Sum](./leetcode/1-two-sum) | [⇨](https://leetcode.com/problems/two-sum/) |
+| 3 | [Longest Substring Without Repeating Characters](./leetcode/3-longest-substring-without-repeating-characters) | [⇨](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
 
 
@@ -72,6 +74,7 @@ Collection of my solutions to coding problems — with source code and explanati
 
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
+| 3 | [Longest Substring Without Repeating Characters](./leetcode/3-longest-substring-without-repeating-characters) | [⇨](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 20 | [Valid Parentheses](./leetcode/20-valid-parenthesis) | [⇨](https://leetcode.com/problems/valid-parentheses/) |
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
 | 125 | [Valid Palindrome](./leetcode/125-valid-palindrome) | [⇨](https://leetcode.com/problems/valid-palindrome/) |
