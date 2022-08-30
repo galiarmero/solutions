@@ -21,6 +21,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 1 | [Two Sum](./leetcode/1-two-sum) | [⇨](https://leetcode.com/problems/two-sum/) |
 | 3 | [Longest Substring Without Repeating Characters](./leetcode/3-longest-substring-without-repeating-characters) | [⇨](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 12 | [Integer to Roman](./leetcode/12-integer-to-roman) | [⇨](https://leetcode.com/problems/integer-to-roman/) |
+| 13 | [Roman to Integer](./leetcode/13-roman-to-integer) | [⇨](https://leetcode.com/problems/roman-to-integer/) |
 | 20 | [Valid Parentheses](./leetcode/20-valid-parenthesis) | [⇨](https://leetcode.com/problems/valid-parentheses/) |
 | 32 | [Coin Change](./leetcode/32-coin-change) | [⇨](https://leetcode.com/problems/coin-change/) |
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
@@ -40,6 +41,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
 | 1 | [Two Sum](./leetcode/1-two-sum) | [⇨](https://leetcode.com/problems/two-sum/) |
+| 13 | [Roman to Integer](./leetcode/13-roman-to-integer) | [⇨](https://leetcode.com/problems/roman-to-integer/) |
 | 32 | [Coin Change](./leetcode/32-coin-change) | [⇨](https://leetcode.com/problems/coin-change/) |
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
 | 121 | [Best Time to Buy and Sell Stock](./leetcode/121-best-time-to-buy-and-sell-stock) | [⇨](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
@@ -55,6 +57,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 1 | [Two Sum](./leetcode/1-two-sum) | [⇨](https://leetcode.com/problems/two-sum/) |
 | 3 | [Longest Substring Without Repeating Characters](./leetcode/3-longest-substring-without-repeating-characters) | [⇨](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 12 | [Integer to Roman](./leetcode/12-integer-to-roman) | [⇨](https://leetcode.com/problems/integer-to-roman/) |
+| 13 | [Roman to Integer](./leetcode/13-roman-to-integer) | [⇨](https://leetcode.com/problems/roman-to-integer/) |
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
 
 
@@ -78,6 +81,7 @@ Collection of my solutions to coding problems — with source code and explanati
 |--|--|--|
 | 3 | [Longest Substring Without Repeating Characters](./leetcode/3-longest-substring-without-repeating-characters) | [⇨](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 12 | [Integer to Roman](./leetcode/12-integer-to-roman) | [⇨](https://leetcode.com/problems/integer-to-roman/) |
+| 13 | [Roman to Integer](./leetcode/13-roman-to-integer) | [⇨](https://leetcode.com/problems/roman-to-integer/) |
 | 20 | [Valid Parentheses](./leetcode/20-valid-parenthesis) | [⇨](https://leetcode.com/problems/valid-parentheses/) |
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
 | 125 | [Valid Palindrome](./leetcode/125-valid-palindrome) | [⇨](https://leetcode.com/problems/valid-palindrome/) |
