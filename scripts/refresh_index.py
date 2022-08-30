@@ -6,7 +6,7 @@ import jinja2
 
 def main():
     platforms = { 'leetcode': 'LeetCode' }
-    ordered_categories = ['array', 'map', 'set', 'stack', 'string', 'dynamic programming']
+    ordered_categories = ['array', 'map', 'set', 'stack', 'string', 'dynamic programming', 'greedy']
     by_platform = _get_solutions_by_platform(platforms)
     by_category = _sort_by_category(by_platform, ordered_categories)
     template = _load_template('README.j2')
