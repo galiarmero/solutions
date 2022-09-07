@@ -11,6 +11,7 @@ Collection of my solutions to coding problems — with source code and explanati
     * [String](#string)
     * [Dynamic Programming](#dynamic-programming)
     * [Greedy](#greedy)
+    * [Binary Search](#binary-search)
 
 ## All Solutions
 
@@ -32,6 +33,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 217 | [Contains Duplicate](./leetcode/217-contains-duplicates) | [⇨](https://leetcode.com/problems/contains-duplicate/) |
 | 238 | [Product of Array Except Self](./leetcode/238-product-of-array-except-self) | [⇨](https://leetcode.com/problems/product-of-array-except-self/) |
 | 242 | [Valid Anagram](./leetcode/242-valid-anagram) | [⇨](https://leetcode.com/problems/valid-anagram/) |
+| 278 | [First Bad Version](./leetcode/278-first-bad-version) | [⇨](https://leetcode.com/problems/first-bad-version/) |
 
 
 
@@ -105,3 +107,10 @@ Collection of my solutions to coding problems — with source code and explanati
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
 | 55 | [Jump Game](./leetcode/55-jump-game) | [⇨](https://leetcode.com/problems/jump-game/) |
+
+
+### Binary Search
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| 278 | [First Bad Version](./leetcode/278-first-bad-version) | [⇨](https://leetcode.com/problems/first-bad-version/) |
