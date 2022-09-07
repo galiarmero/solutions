@@ -9,6 +9,7 @@ Collection of my solutions to coding problems — with source code and explanati
     * [Set](#set)
     * [Stack](#stack)
     * [String](#string)
+    * [Math](#math)
     * [Dynamic Programming](#dynamic-programming)
     * [Greedy](#greedy)
     * [Binary Search](#binary-search)
@@ -28,6 +29,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 32 | [Coin Change](./leetcode/32-coin-change) | [⇨](https://leetcode.com/problems/coin-change/) |
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
 | 55 | [Jump Game](./leetcode/55-jump-game) | [⇨](https://leetcode.com/problems/jump-game/) |
+| 69 | [Sqrt(x)](./leetcode/69-sqrtx) | [⇨](https://leetcode.com/problems/sqrtx/) |
 | 121 | [Best Time to Buy and Sell Stock](./leetcode/121-best-time-to-buy-and-sell-stock) | [⇨](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 125 | [Valid Palindrome](./leetcode/125-valid-palindrome) | [⇨](https://leetcode.com/problems/valid-palindrome/) |
 | 217 | [Contains Duplicate](./leetcode/217-contains-duplicates) | [⇨](https://leetcode.com/problems/contains-duplicate/) |
@@ -93,6 +95,13 @@ Collection of my solutions to coding problems — with source code and explanati
 | 242 | [Valid Anagram](./leetcode/242-valid-anagram) | [⇨](https://leetcode.com/problems/valid-anagram/) |
 
 
+### Math
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| 69 | [Sqrt(x)](./leetcode/69-sqrtx) | [⇨](https://leetcode.com/problems/sqrtx/) |
+
+
 ### Dynamic Programming
 
 | Problem ID | Solution | Problem Specs |
@@ -113,4 +122,5 @@ Collection of my solutions to coding problems — with source code and explanati
 
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
+| 69 | [Sqrt(x)](./leetcode/69-sqrtx) | [⇨](https://leetcode.com/problems/sqrtx/) |
 | 278 | [First Bad Version](./leetcode/278-first-bad-version) | [⇨](https://leetcode.com/problems/first-bad-version/) |

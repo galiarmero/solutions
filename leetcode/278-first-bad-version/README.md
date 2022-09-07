@@ -33,7 +33,7 @@ binary_search(n):
         else:
             left = mid + 1
 
-    if p(left) == false:
+    if isBadVersion(left) == false:
         complain # isBadVersion(x) is false for all x in S! (This won't happen)
 
     return left # left is the least x for which isBadVersion(x) is true
