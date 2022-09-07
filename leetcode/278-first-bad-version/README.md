@@ -39,7 +39,12 @@ binary_search(n):
     return left # left is the least x for which isBadVersion(x) is true
 ```
 
-Let's start with the initial _search space_: all the versions.
+Let's test this out with our example, starting with the initial _search space_: all the versions. 
+
+```python
+left = 1
+right = 6
+```
 
 | 1 | 2 | 3 | 4 | 5 | 6 |
 | - | - | - | - | - | - |
@@ -57,7 +62,7 @@ right = 6
 | - | - | - |
 | yes | **yes** | yes |
 
-`mid` is `5`. That's a bad version! Surely, either it is the first bad version or the bad version is on its left. The item(s) on its right are surely not the first bad version, right? So let's move cut the right side by making `right` equal to `mid`.
+`mid` is `5`. That's a bad version! Surely, either it is the first bad version or the bad version is on its left. The item(s) on its right are surely not the first bad version, right? So let's cut the right side by making `right` equal to `mid`.
 
 
 ```python
