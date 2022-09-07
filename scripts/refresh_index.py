@@ -6,7 +6,7 @@ import jinja2
 
 def main():
     platforms = { 'leetcode': 'LeetCode' }
-    ordered_categories = ['array', 'map', 'set', 'stack', 'string', 'dynamic programming', 'greedy']
+    ordered_categories = ['array', 'map', 'set', 'stack', 'string', 'dynamic programming', 'greedy', 'binary search']
     by_platform = _get_solutions_by_platform(platforms)
     by_category = _sort_by_category(by_platform, ordered_categories)
     template = _load_template('README.j2')
@@ -26,6 +26,9 @@ def _get_solutions_by_platform(platforms):
         for it in os.scandir(platform):
             if it.is_dir():
                 readme = _read(os.path.join(it.path, 'README.md'))
+                if _is_draft(readme):
+                    continue
+
                 problem_id = _get_problem_id(it.path)
                 title, link = _get_title_and_link(readme)
                 categories = _get_categories(readme)
@@ -74,6 +77,13 @@ def _get_categories(readme):
     if match:
         return match[0].split(',')
     return None
+
+
+def _is_draft(readme):
+    match = re.findall('^---.*draft: (.*?)\n.*^---', readme, re.DOTALL|re.MULTILINE)
+    if match:
+        return match[0] == 'true'
+    return False
 
 
 def _load_template(filepath):
