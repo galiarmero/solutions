@@ -37,6 +37,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 238 | [Product of Array Except Self](./leetcode/238-product-of-array-except-self) | [⇨](https://leetcode.com/problems/product-of-array-except-self/) |
 | 242 | [Valid Anagram](./leetcode/242-valid-anagram) | [⇨](https://leetcode.com/problems/valid-anagram/) |
 | 278 | [First Bad Version](./leetcode/278-first-bad-version) | [⇨](https://leetcode.com/problems/first-bad-version/) |
+| 1011 | [Capacity To Ship Packages Within D Days](./leetcode/1011-capacity-to-ship-packages-within-d-days) | [⇨](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
 
 
 
@@ -57,6 +58,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 217 | [Contains Duplicate](./leetcode/217-contains-duplicates) | [⇨](https://leetcode.com/problems/contains-duplicate/) |
 | 238 | [Product of Array Except Self](./leetcode/238-product-of-array-except-self) | [⇨](https://leetcode.com/problems/product-of-array-except-self/) |
 | 242 | [Valid Anagram](./leetcode/242-valid-anagram) | [⇨](https://leetcode.com/problems/valid-anagram/) |
+| 1011 | [Capacity To Ship Packages Within D Days](./leetcode/1011-capacity-to-ship-packages-within-d-days) | [⇨](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
 
 
 ### Map
@@ -127,3 +129,4 @@ Collection of my solutions to coding problems — with source code and explanati
 | 35 | [Search Insert Position](./leetcode/35-search-insert-position) | [⇨](https://leetcode.com/problems/search-insert-position/) |
 | 69 | [Sqrt(x)](./leetcode/69-sqrtx) | [⇨](https://leetcode.com/problems/sqrtx/) |
 | 278 | [First Bad Version](./leetcode/278-first-bad-version) | [⇨](https://leetcode.com/problems/first-bad-version/) |
+| 1011 | [Capacity To Ship Packages Within D Days](./leetcode/1011-capacity-to-ship-packages-within-d-days) | [⇨](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
