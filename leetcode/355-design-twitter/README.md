@@ -63,7 +63,7 @@ When a user posts a `Tweet`, we add them to a collection indexed in the hash map
 - `ArrayList` - calling `add(x)` would add an item at the back of the list in _O(1)_. So to get the most recent tweets, we have to start from the back of the list.
 - `ArrayDeque` - calling `push(x)` would add an item at the front of the list in _O(1)_. So to get the most recent tweets, start from the front of the list. This is an implementation of the `Deque` interface.
 - A custom linked list. Each `Tweet` object has a `next` attribute, containing the reference to the next tweet. Each user then has an access to the head of the list, the `latestTweet`.
-  > This is the most ideal especially if the news feed size is large. But for this discussion, let's skip this. It introduces needless complexity and doesn't make a difference in performance when the news feed size is 10. 
+  > This is the most ideal especially if the news feed size is large. But for this discussion, let's skip this. It introduces needless complexity and doesn't make a difference in performance when the news feed size is 10. If you want to see a sample solution, check [TwitterLinkedTweets.java](./TwitterLinkedTweets.java).
 
 For readability purposes, I'll use `ArrayDeque` in this example since it's more straightforward to grab the most recent tweets.
 
