@@ -69,7 +69,6 @@ class TwitterLinkedTweets {
         PriorityQueue<Tweet> recentTweets = new PriorityQueue<>((t1, t2) -> t2.timestamp - t1.timestamp);
         for (User followee : this.getUser(userId).followees) {
             if (followee.latestTweet != null) {
-                // System.out.printf("Latest tweet#%d: %d on %d\n", followee.userId, followee.latestTweet.tweetId, followee.latestTweet.timestamp);
                 recentTweets.add(followee.latestTweet);
             }
         }
