@@ -8,6 +8,8 @@ Collection of my solutions to coding problems — with source code and explanati
     * [Map](#map)
     * [Set](#set)
     * [Stack](#stack)
+    * [Deque](#deque)
+    * [Priority Queue](#priority-queue)
     * [String](#string)
     * [Math](#math)
     * [Dynamic Programming](#dynamic-programming)
@@ -37,6 +39,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 238 | [Product of Array Except Self](./leetcode/238-product-of-array-except-self) | [⇨](https://leetcode.com/problems/product-of-array-except-self/) |
 | 242 | [Valid Anagram](./leetcode/242-valid-anagram) | [⇨](https://leetcode.com/problems/valid-anagram/) |
 | 278 | [First Bad Version](./leetcode/278-first-bad-version) | [⇨](https://leetcode.com/problems/first-bad-version/) |
+| 355 | [Design Twitter](./leetcode/355-design-twitter) | [⇨](https://leetcode.com/problems/design-twitter/) |
 | 1011 | [Capacity To Ship Packages Within D Days](./leetcode/1011-capacity-to-ship-packages-within-d-days) | [⇨](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
 
 
@@ -70,6 +73,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 12 | [Integer to Roman](./leetcode/12-integer-to-roman) | [⇨](https://leetcode.com/problems/integer-to-roman/) |
 | 13 | [Roman to Integer](./leetcode/13-roman-to-integer) | [⇨](https://leetcode.com/problems/roman-to-integer/) |
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
+| 355 | [Design Twitter](./leetcode/355-design-twitter) | [⇨](https://leetcode.com/problems/design-twitter/) |
 
 
 ### Set
@@ -84,6 +88,20 @@ Collection of my solutions to coding problems — with source code and explanati
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
 | 20 | [Valid Parentheses](./leetcode/20-valid-parenthesis) | [⇨](https://leetcode.com/problems/valid-parentheses/) |
+
+
+### Deque
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| 355 | [Design Twitter](./leetcode/355-design-twitter) | [⇨](https://leetcode.com/problems/design-twitter/) |
+
+
+### Priority Queue
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| 355 | [Design Twitter](./leetcode/355-design-twitter) | [⇨](https://leetcode.com/problems/design-twitter/) |
 
 
 ### String
