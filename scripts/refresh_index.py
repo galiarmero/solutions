@@ -5,8 +5,8 @@ import jinja2
 
 
 def main():
-    platforms = { 'leetcode': 'LeetCode' }
-    ordered_categories = ['array', 'map', 'set', 'stack', 'deque', 'priority queue', 'string', 'math', 'dynamic programming', 'greedy', 'binary search']
+    platforms = { 'leetcode': 'LeetCode', 'geeksforgeeks': 'GeeksforGeeks' }
+    ordered_categories = ['array', 'string', 'map', 'set', 'stack', 'deque', 'priority queue', 'heap', 'math', 'dynamic programming', 'greedy', 'binary search']
     by_platform = _get_solutions_by_platform(platforms)
     by_category = _sort_by_category(by_platform, ordered_categories)
     template = _load_template('README.j2')
@@ -29,11 +29,11 @@ def _get_solutions_by_platform(platforms):
                 if _is_draft(readme):
                     continue
 
-                problem_id = _get_problem_id(it.path)
+                problem_id = _get_problem_id(it.path, platform)
                 title, link = _get_title_and_link(readme)
                 categories = _get_categories(readme)
                 solutions[platform].append({
-                    'problem_id': int(problem_id),
+                    'problem_id': problem_id,
                     'title': title,
                     'path': f'./{platform}/{os.path.basename(it.path)}',
                     'link': link,
@@ -58,11 +58,14 @@ def _sort_by_category(solutions_by_platform, ordered_cats):
     return by_category
 
 
-def _get_problem_id(path):
-    match = re.findall('^(\d*?)-.*', os.path.basename(path))
-    if match:
-        return match[0]
-    return None
+def _get_problem_id(path, platform):
+    if platform == 'leetcode':
+        match = re.findall('^(\d*?)-.*', os.path.basename(path))
+        if match:
+            return int(match[0])
+        return None
+    else:
+        return path
 
 
 def _get_title_and_link(readme):
