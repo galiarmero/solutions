@@ -4,7 +4,7 @@ categories: priority queue,heap
 
 # [Minimize Sum of an Array by at Most K Reductions](https://www.geeksforgeeks.org/minimize-sum-of-an-array-by-at-most-k-reductions/)
 
-Here's the specification in [GeeksforGeeks]():
+Here's the specification in [GeeksforGeeks](https://www.geeksforgeeks.org/minimize-sum-of-an-array-by-at-most-k-reductions/):
 
 > Given an array of integers `arr[]` consisting of `N` integers, the task is to minimize the sum of the given array by performing at most `K` operations, where each operation involves reducing an array element `arr[i]` to `floor(arr[i]/2)`.
 

@@ -23,7 +23,19 @@ public class Solution {
 
     public static void main(String args[]) {
         Solution s = new Solution();
-        assert s.minimumSumAfterReductions(new int[]{20, 7, 5, 4}, 3) == 18;
-        assert s.minimumSumAfterReductions(new int[]{10, 20, 7}, 4) == 14;
+        assert s.minimumSumAfterReductions(new int[]{20, 7, 5, 4}, 3) == 17;
+        assert s.minimumSumAfterReductions(new int[]{10, 20, 7}, 4) == 13;
+
+        // 20, 7, 5, 4
+        // 10, 7, 5, 4
+        // 5, 7, 5, 4
+        // 5, 3, 5, 4
+        // 2, 3, 5, 4
+
+        // 10, 20, 7
+        // 10, 10, 7
+        // 5, 10, 7
+        // 5, 5, 7
+        // 5, 5, 3
     }
 }
