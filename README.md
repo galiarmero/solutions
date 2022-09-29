@@ -5,12 +5,13 @@ Collection of my solutions to coding problems — with source code and explanati
 - [All Solutions](#all-solutions)
 - [Solutions By Category](#solutions-by-category)
     * [Array](#array)
+    * [String](#string)
     * [Map](#map)
     * [Set](#set)
     * [Stack](#stack)
     * [Deque](#deque)
     * [Priority Queue](#priority-queue)
-    * [String](#string)
+    * [Heap](#heap)
     * [Math](#math)
     * [Dynamic Programming](#dynamic-programming)
     * [Greedy](#greedy)
@@ -44,6 +45,13 @@ Collection of my solutions to coding problems — with source code and explanati
 | 1011 | [Capacity To Ship Packages Within D Days](./leetcode/1011-capacity-to-ship-packages-within-d-days) | [⇨](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
 
 
+### GeeksforGeeks
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions | [Minimize Sum of an Array by at Most K Reductions](./geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions) | [⇨](https://www.geeksforgeeks.org/minimize-sum-of-an-array-by-at-most-k-reductions/) |
+
+
 
 ## Solutions By Category
 
@@ -64,6 +72,19 @@ Collection of my solutions to coding problems — with source code and explanati
 | 242 | [Valid Anagram](./leetcode/242-valid-anagram) | [⇨](https://leetcode.com/problems/valid-anagram/) |
 | 875 | [Koko Eating Bananas](./leetcode/875-koko-eating-bananas) | [⇨](https://leetcode.com/problems/koko-eating-bananas/) |
 | 1011 | [Capacity To Ship Packages Within D Days](./leetcode/1011-capacity-to-ship-packages-within-d-days) | [⇨](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
+
+
+### String
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| 3 | [Longest Substring Without Repeating Characters](./leetcode/3-longest-substring-without-repeating-characters) | [⇨](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 12 | [Integer to Roman](./leetcode/12-integer-to-roman) | [⇨](https://leetcode.com/problems/integer-to-roman/) |
+| 13 | [Roman to Integer](./leetcode/13-roman-to-integer) | [⇨](https://leetcode.com/problems/roman-to-integer/) |
+| 20 | [Valid Parentheses](./leetcode/20-valid-parenthesis) | [⇨](https://leetcode.com/problems/valid-parentheses/) |
+| 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
+| 125 | [Valid Palindrome](./leetcode/125-valid-palindrome) | [⇨](https://leetcode.com/problems/valid-palindrome/) |
+| 242 | [Valid Anagram](./leetcode/242-valid-anagram) | [⇨](https://leetcode.com/problems/valid-anagram/) |
 
 
 ### Map
@@ -104,19 +125,14 @@ Collection of my solutions to coding problems — with source code and explanati
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
 | 355 | [Design Twitter](./leetcode/355-design-twitter) | [⇨](https://leetcode.com/problems/design-twitter/) |
+| geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions | [Minimize Sum of an Array by at Most K Reductions](./geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions) | [⇨](https://www.geeksforgeeks.org/minimize-sum-of-an-array-by-at-most-k-reductions/) |
 
 
-### String
+### Heap
 
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
-| 3 | [Longest Substring Without Repeating Characters](./leetcode/3-longest-substring-without-repeating-characters) | [⇨](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
-| 12 | [Integer to Roman](./leetcode/12-integer-to-roman) | [⇨](https://leetcode.com/problems/integer-to-roman/) |
-| 13 | [Roman to Integer](./leetcode/13-roman-to-integer) | [⇨](https://leetcode.com/problems/roman-to-integer/) |
-| 20 | [Valid Parentheses](./leetcode/20-valid-parenthesis) | [⇨](https://leetcode.com/problems/valid-parentheses/) |
-| 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
-| 125 | [Valid Palindrome](./leetcode/125-valid-palindrome) | [⇨](https://leetcode.com/problems/valid-palindrome/) |
-| 242 | [Valid Anagram](./leetcode/242-valid-anagram) | [⇨](https://leetcode.com/problems/valid-anagram/) |
+| geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions | [Minimize Sum of an Array by at Most K Reductions](./geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions) | [⇨](https://www.geeksforgeeks.org/minimize-sum-of-an-array-by-at-most-k-reductions/) |
 
 
 ### Math
