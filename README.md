@@ -48,6 +48,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 355 | [Design Twitter](./leetcode/355-design-twitter) | [⇨](https://leetcode.com/problems/design-twitter/) |
 | 875 | [Koko Eating Bananas](./leetcode/875-koko-eating-bananas) | [⇨](https://leetcode.com/problems/koko-eating-bananas/) |
 | 1011 | [Capacity To Ship Packages Within D Days](./leetcode/1011-capacity-to-ship-packages-within-d-days) | [⇨](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
+| 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
 
 
 ### GeeksforGeeks
@@ -146,6 +147,7 @@ Collection of my solutions to coding problems — with source code and explanati
 |--|--|--|
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
+| 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
 
 
 ### Depth-First Search
@@ -154,6 +156,7 @@ Collection of my solutions to coding problems — with source code and explanati
 |--|--|--|
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
+| 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
 
 
 ### Breadth-First Search
