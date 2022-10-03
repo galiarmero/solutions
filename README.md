@@ -16,6 +16,8 @@ Collection of my solutions to coding problems — with source code and explanati
     * [Dynamic Programming](#dynamic-programming)
     * [Greedy](#greedy)
     * [Binary Search](#binary-search)
+    * [Tree](#tree)
+    * [Depth-First Search](#depth-first-search)
 
 ## All Solutions
 
@@ -34,6 +36,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
 | 55 | [Jump Game](./leetcode/55-jump-game) | [⇨](https://leetcode.com/problems/jump-game/) |
 | 69 | [Sqrt(x)](./leetcode/69-sqrtx) | [⇨](https://leetcode.com/problems/sqrtx/) |
+| 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 121 | [Best Time to Buy and Sell Stock](./leetcode/121-best-time-to-buy-and-sell-stock) | [⇨](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 125 | [Valid Palindrome](./leetcode/125-valid-palindrome) | [⇨](https://leetcode.com/problems/valid-palindrome/) |
 | 217 | [Contains Duplicate](./leetcode/217-contains-duplicates) | [⇨](https://leetcode.com/problems/contains-duplicate/) |
@@ -167,3 +170,17 @@ Collection of my solutions to coding problems — with source code and explanati
 | 278 | [First Bad Version](./leetcode/278-first-bad-version) | [⇨](https://leetcode.com/problems/first-bad-version/) |
 | 875 | [Koko Eating Bananas](./leetcode/875-koko-eating-bananas) | [⇨](https://leetcode.com/problems/koko-eating-bananas/) |
 | 1011 | [Capacity To Ship Packages Within D Days](./leetcode/1011-capacity-to-ship-packages-within-d-days) | [⇨](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
+
+
+### Tree
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
+
+
+### Depth-First Search
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
