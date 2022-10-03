@@ -13,6 +13,7 @@ Collection of my solutions to coding problems — with source code and explanati
     * [Priority Queue](#priority-queue)
     * [Heap](#heap)
     * [Tree](#tree)
+    * [Binary Tree](#binary-tree)
     * [Depth-First Search](#depth-first-search)
     * [Breadth-First Search](#breadth-first-search)
     * [Math](#math)
@@ -39,6 +40,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 69 | [Sqrt(x)](./leetcode/69-sqrtx) | [⇨](https://leetcode.com/problems/sqrtx/) |
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
+| 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 121 | [Best Time to Buy and Sell Stock](./leetcode/121-best-time-to-buy-and-sell-stock) | [⇨](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 125 | [Valid Palindrome](./leetcode/125-valid-palindrome) | [⇨](https://leetcode.com/problems/valid-palindrome/) |
 | 217 | [Contains Duplicate](./leetcode/217-contains-duplicates) | [⇨](https://leetcode.com/problems/contains-duplicate/) |
@@ -147,6 +149,17 @@ Collection of my solutions to coding problems — with source code and explanati
 |--|--|--|
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
+| 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
+
+
+### Binary Tree
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
+| 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
+| 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
 
 
@@ -164,6 +177,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
+| 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 
 
 ### Math

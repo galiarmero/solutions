@@ -1,5 +1,5 @@
 ---
-categories: tree,depth-first search
+categories: tree,binary tree,depth-first search
 ---
 
 # [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/)

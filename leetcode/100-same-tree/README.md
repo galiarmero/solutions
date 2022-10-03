@@ -1,5 +1,5 @@
 ---
-categories: tree,depth-first search
+categories: tree,binary tree,depth-first search
 ---
 
 # [Same Tree](https://leetcode.com/problems/same-tree/)
