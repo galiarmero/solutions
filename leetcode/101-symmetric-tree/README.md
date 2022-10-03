@@ -1,5 +1,5 @@
 ---
-categories: tree,depth-first search,breadth-first search
+categories: tree,binary tree,depth-first search,breadth-first search
 ---
 
 # [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
