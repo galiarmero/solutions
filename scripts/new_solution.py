@@ -54,6 +54,10 @@ categories:
 
 # [{problem['title']}]({problem['url']})
 
+Explanation is pending. For now, you can check the solution:
+
+- [Solution.java](./Solution.java)
+
 """)
     print(f"✅ Created README.md in {path}")
 
