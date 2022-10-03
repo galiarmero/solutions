@@ -25,7 +25,7 @@ isSameTree(p, q):
     if p.val == q.val
         # The nodes have the same value
         # Now, time to check if their left and right sub-trees are the same
-        return isSameTree(p.left, q.left) && isSameTree(p.right, q.right)
+        return isSameTree(p.left, q.left) and isSameTree(p.right, q.right)
 
     ## The nodes' values are not equal. That means the two trees are not equal.
     return false
