@@ -12,12 +12,13 @@ Collection of my solutions to coding problems — with source code and explanati
     * [Deque](#deque)
     * [Priority Queue](#priority-queue)
     * [Heap](#heap)
+    * [Tree](#tree)
+    * [Depth-First Search](#depth-first-search)
+    * [Breadth-First Search](#breadth-first-search)
     * [Math](#math)
     * [Dynamic Programming](#dynamic-programming)
     * [Greedy](#greedy)
     * [Binary Search](#binary-search)
-    * [Tree](#tree)
-    * [Depth-First Search](#depth-first-search)
 
 ## All Solutions
 
@@ -37,6 +38,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 55 | [Jump Game](./leetcode/55-jump-game) | [⇨](https://leetcode.com/problems/jump-game/) |
 | 69 | [Sqrt(x)](./leetcode/69-sqrtx) | [⇨](https://leetcode.com/problems/sqrtx/) |
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
+| 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
 | 121 | [Best Time to Buy and Sell Stock](./leetcode/121-best-time-to-buy-and-sell-stock) | [⇨](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 125 | [Valid Palindrome](./leetcode/125-valid-palindrome) | [⇨](https://leetcode.com/problems/valid-palindrome/) |
 | 217 | [Contains Duplicate](./leetcode/217-contains-duplicates) | [⇨](https://leetcode.com/problems/contains-duplicate/) |
@@ -138,6 +140,29 @@ Collection of my solutions to coding problems — with source code and explanati
 | geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions | [Minimize Sum of an Array by at Most K Reductions](./geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions) | [⇨](https://www.geeksforgeeks.org/minimize-sum-of-an-array-by-at-most-k-reductions/) |
 
 
+### Tree
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
+| 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
+
+
+### Depth-First Search
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
+| 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
+
+
+### Breadth-First Search
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
+
+
 ### Math
 
 | Problem ID | Solution | Problem Specs |
@@ -170,17 +195,3 @@ Collection of my solutions to coding problems — with source code and explanati
 | 278 | [First Bad Version](./leetcode/278-first-bad-version) | [⇨](https://leetcode.com/problems/first-bad-version/) |
 | 875 | [Koko Eating Bananas](./leetcode/875-koko-eating-bananas) | [⇨](https://leetcode.com/problems/koko-eating-bananas/) |
 | 1011 | [Capacity To Ship Packages Within D Days](./leetcode/1011-capacity-to-ship-packages-within-d-days) | [⇨](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
-
-
-### Tree
-
-| Problem ID | Solution | Problem Specs |
-|--|--|--|
-| 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
-
-
-### Depth-First Search
-
-| Problem ID | Solution | Problem Specs |
-|--|--|--|
-| 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
