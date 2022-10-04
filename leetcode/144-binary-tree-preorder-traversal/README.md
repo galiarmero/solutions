@@ -2,7 +2,7 @@
 categories: tree,binary tree,depth-first search,stack
 ---
 
-# [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+# [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
 Explanation is pending. For now, you can check the solution:
 

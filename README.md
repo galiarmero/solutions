@@ -44,6 +44,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 121 | [Best Time to Buy and Sell Stock](./leetcode/121-best-time-to-buy-and-sell-stock) | [⇨](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 125 | [Valid Palindrome](./leetcode/125-valid-palindrome) | [⇨](https://leetcode.com/problems/valid-palindrome/) |
+| 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 217 | [Contains Duplicate](./leetcode/217-contains-duplicates) | [⇨](https://leetcode.com/problems/contains-duplicate/) |
 | 238 | [Product of Array Except Self](./leetcode/238-product-of-array-except-self) | [⇨](https://leetcode.com/problems/product-of-array-except-self/) |
 | 242 | [Valid Anagram](./leetcode/242-valid-anagram) | [⇨](https://leetcode.com/problems/valid-anagram/) |
@@ -120,6 +121,8 @@ Collection of my solutions to coding problems — with source code and explanati
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
 | 20 | [Valid Parentheses](./leetcode/20-valid-parenthesis) | [⇨](https://leetcode.com/problems/valid-parentheses/) |
+| 94 | [Binary Tree Inorder Traversal](./leetcode/94-binary-tree-inorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
+| 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 
 
 ### Deque
@@ -152,6 +155,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
 
 
@@ -163,6 +167,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
 
 
@@ -173,6 +178,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 94 | [Binary Tree Inorder Traversal](./leetcode/94-binary-tree-inorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
+| 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
 
 
