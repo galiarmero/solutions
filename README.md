@@ -38,6 +38,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
 | 55 | [Jump Game](./leetcode/55-jump-game) | [⇨](https://leetcode.com/problems/jump-game/) |
 | 69 | [Sqrt(x)](./leetcode/69-sqrtx) | [⇨](https://leetcode.com/problems/sqrtx/) |
+| 94 | [Binary Tree Inorder Traversal](./leetcode/94-binary-tree-inorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
@@ -147,6 +148,7 @@ Collection of my solutions to coding problems — with source code and explanati
 
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
+| 94 | [Binary Tree Inorder Traversal](./leetcode/94-binary-tree-inorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
@@ -157,6 +159,7 @@ Collection of my solutions to coding problems — with source code and explanati
 
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
+| 94 | [Binary Tree Inorder Traversal](./leetcode/94-binary-tree-inorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
@@ -167,6 +170,7 @@ Collection of my solutions to coding problems — with source code and explanati
 
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
+| 94 | [Binary Tree Inorder Traversal](./leetcode/94-binary-tree-inorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
 | 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |

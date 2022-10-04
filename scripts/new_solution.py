@@ -50,6 +50,7 @@ def _get_leetcode_problem_info(url):
 def _create_readme(path, problem):
     _write(os.path.join(path, 'README.md'), f"""---
 categories: 
+draft: true
 ---
 
 # [{problem['title']}]({problem['url']})
