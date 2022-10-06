@@ -1,8 +1,9 @@
 ---
-categories: tree,binary tree,depth-first search,stack
+categories: 
+draft: true
 ---
 
-# [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+# [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
 
 Explanation is pending. For now, you can check the solution:
 
