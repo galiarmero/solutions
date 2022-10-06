@@ -52,6 +52,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 278 | [First Bad Version](./leetcode/278-first-bad-version) | [⇨](https://leetcode.com/problems/first-bad-version/) |
 | 355 | [Design Twitter](./leetcode/355-design-twitter) | [⇨](https://leetcode.com/problems/design-twitter/) |
 | 589 | [N-ary Tree Preorder Traversal](./leetcode/589-n-ary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |
+| 590 | [N-ary Tree Postorder Traversal](./leetcode/590-n-ary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |
 | 875 | [Koko Eating Bananas](./leetcode/875-koko-eating-bananas) | [⇨](https://leetcode.com/problems/koko-eating-bananas/) |
 | 1011 | [Capacity To Ship Packages Within D Days](./leetcode/1011-capacity-to-ship-packages-within-d-days) | [⇨](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
 | 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
@@ -127,6 +128,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 145 | [Binary Tree Postorder Traversal](./leetcode/145-binary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
 | 589 | [N-ary Tree Preorder Traversal](./leetcode/589-n-ary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |
+| 590 | [N-ary Tree Postorder Traversal](./leetcode/590-n-ary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |
 
 
 ### Deque
@@ -162,6 +164,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 145 | [Binary Tree Postorder Traversal](./leetcode/145-binary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
 | 589 | [N-ary Tree Preorder Traversal](./leetcode/589-n-ary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |
+| 590 | [N-ary Tree Postorder Traversal](./leetcode/590-n-ary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |
 | 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
 
 
@@ -176,6 +179,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 145 | [Binary Tree Postorder Traversal](./leetcode/145-binary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
 | 589 | [N-ary Tree Preorder Traversal](./leetcode/589-n-ary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |
+| 590 | [N-ary Tree Postorder Traversal](./leetcode/590-n-ary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |
 | 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
 
 
@@ -189,6 +193,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 145 | [Binary Tree Postorder Traversal](./leetcode/145-binary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
 | 589 | [N-ary Tree Preorder Traversal](./leetcode/589-n-ary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |
+| 590 | [N-ary Tree Postorder Traversal](./leetcode/590-n-ary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |
 | 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
 
 
