@@ -1,5 +1,5 @@
 ---
-categories: tree,binary tree,depth-first search,stack
+categories: tree,depth-first search,stack
 ---
 
 # [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)

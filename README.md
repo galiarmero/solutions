@@ -43,6 +43,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| 111 | [Minimum Depth of Binary Tree](./leetcode/111-minimum-depth-of-binary-tree) | [⇨](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 121 | [Best Time to Buy and Sell Stock](./leetcode/121-best-time-to-buy-and-sell-stock) | [⇨](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 125 | [Valid Palindrome](./leetcode/125-valid-palindrome) | [⇨](https://leetcode.com/problems/valid-palindrome/) |
 | 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
@@ -140,6 +141,7 @@ Collection of my solutions to coding problems — with source code and explanati
 |--|--|--|
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| 111 | [Minimum Depth of Binary Tree](./leetcode/111-minimum-depth-of-binary-tree) | [⇨](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 429 | [N-ary Tree Level Order Traversal](./leetcode/429-n-ary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |
 
 
@@ -173,6 +175,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| 111 | [Minimum Depth of Binary Tree](./leetcode/111-minimum-depth-of-binary-tree) | [⇨](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 145 | [Binary Tree Postorder Traversal](./leetcode/145-binary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
 | 429 | [N-ary Tree Level Order Traversal](./leetcode/429-n-ary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |
@@ -189,11 +192,9 @@ Collection of my solutions to coding problems — with source code and explanati
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| 111 | [Minimum Depth of Binary Tree](./leetcode/111-minimum-depth-of-binary-tree) | [⇨](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 145 | [Binary Tree Postorder Traversal](./leetcode/145-binary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
-| 429 | [N-ary Tree Level Order Traversal](./leetcode/429-n-ary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |
-| 589 | [N-ary Tree Preorder Traversal](./leetcode/589-n-ary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |
-| 590 | [N-ary Tree Postorder Traversal](./leetcode/590-n-ary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |
 | 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
 
 
@@ -204,6 +205,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 94 | [Binary Tree Inorder Traversal](./leetcode/94-binary-tree-inorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
+| 111 | [Minimum Depth of Binary Tree](./leetcode/111-minimum-depth-of-binary-tree) | [⇨](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 145 | [Binary Tree Postorder Traversal](./leetcode/145-binary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
 | 589 | [N-ary Tree Preorder Traversal](./leetcode/589-n-ary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |
@@ -217,6 +219,7 @@ Collection of my solutions to coding problems — with source code and explanati
 |--|--|--|
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| 111 | [Minimum Depth of Binary Tree](./leetcode/111-minimum-depth-of-binary-tree) | [⇨](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 429 | [N-ary Tree Level Order Traversal](./leetcode/429-n-ary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |
 
 
