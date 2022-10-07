@@ -1,5 +1,5 @@
 ---
-categories: tree,binary tree,breadth-first search,queue
+categories: tree,breadth-first search,queue
 ---
 
 # [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
