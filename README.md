@@ -56,6 +56,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 278 | [First Bad Version](./leetcode/278-first-bad-version) | [⇨](https://leetcode.com/problems/first-bad-version/) |
 | 355 | [Design Twitter](./leetcode/355-design-twitter) | [⇨](https://leetcode.com/problems/design-twitter/) |
 | 429 | [N-ary Tree Level Order Traversal](./leetcode/429-n-ary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |
+| 515 | [Find Largest Value in Each Tree Row](./leetcode/515-find-largest-value-in-each-tree-row) | [⇨](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) |
 | 559 | [Maximum Depth of N-ary Tree](./leetcode/559-maximum-depth-of-n-ary-tree) | [⇨](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |
 | 589 | [N-ary Tree Preorder Traversal](./leetcode/589-n-ary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |
 | 590 | [N-ary Tree Postorder Traversal](./leetcode/590-n-ary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |
@@ -184,6 +185,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 145 | [Binary Tree Postorder Traversal](./leetcode/145-binary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
 | 429 | [N-ary Tree Level Order Traversal](./leetcode/429-n-ary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |
+| 515 | [Find Largest Value in Each Tree Row](./leetcode/515-find-largest-value-in-each-tree-row) | [⇨](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) |
 | 559 | [Maximum Depth of N-ary Tree](./leetcode/559-maximum-depth-of-n-ary-tree) | [⇨](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |
 | 589 | [N-ary Tree Preorder Traversal](./leetcode/589-n-ary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |
 | 590 | [N-ary Tree Postorder Traversal](./leetcode/590-n-ary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |
@@ -203,6 +205,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 111 | [Minimum Depth of Binary Tree](./leetcode/111-minimum-depth-of-binary-tree) | [⇨](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 145 | [Binary Tree Postorder Traversal](./leetcode/145-binary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
+| 515 | [Find Largest Value in Each Tree Row](./leetcode/515-find-largest-value-in-each-tree-row) | [⇨](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) |
 | 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
 
 
@@ -232,6 +235,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 111 | [Minimum Depth of Binary Tree](./leetcode/111-minimum-depth-of-binary-tree) | [⇨](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 429 | [N-ary Tree Level Order Traversal](./leetcode/429-n-ary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |
+| 515 | [Find Largest Value in Each Tree Row](./leetcode/515-find-largest-value-in-each-tree-row) | [⇨](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) |
 
 
 ### Math
