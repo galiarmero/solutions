@@ -21,6 +21,7 @@ Collection of my solutions to coding problems — with source code and explanati
     * [Dynamic Programming](#dynamic-programming)
     * [Greedy](#greedy)
     * [Binary Search](#binary-search)
+    * [Sort](#sort)
 
 ## All Solutions
 
@@ -50,6 +51,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 125 | [Valid Palindrome](./leetcode/125-valid-palindrome) | [⇨](https://leetcode.com/problems/valid-palindrome/) |
 | 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 145 | [Binary Tree Postorder Traversal](./leetcode/145-binary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
+| 215 | [Kth Largest Element in an Array](./leetcode/215-kth-largest-element-in-an-array) | [⇨](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | 217 | [Contains Duplicate](./leetcode/217-contains-duplicates) | [⇨](https://leetcode.com/problems/contains-duplicate/) |
 | 238 | [Product of Array Except Self](./leetcode/238-product-of-array-except-self) | [⇨](https://leetcode.com/problems/product-of-array-except-self/) |
 | 242 | [Valid Anagram](./leetcode/242-valid-anagram) | [⇨](https://leetcode.com/problems/valid-anagram/) |
@@ -87,6 +89,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
 | 55 | [Jump Game](./leetcode/55-jump-game) | [⇨](https://leetcode.com/problems/jump-game/) |
 | 121 | [Best Time to Buy and Sell Stock](./leetcode/121-best-time-to-buy-and-sell-stock) | [⇨](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 215 | [Kth Largest Element in an Array](./leetcode/215-kth-largest-element-in-an-array) | [⇨](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | 217 | [Contains Duplicate](./leetcode/217-contains-duplicates) | [⇨](https://leetcode.com/problems/contains-duplicate/) |
 | 238 | [Product of Array Except Self](./leetcode/238-product-of-array-except-self) | [⇨](https://leetcode.com/problems/product-of-array-except-self/) |
 | 242 | [Valid Anagram](./leetcode/242-valid-anagram) | [⇨](https://leetcode.com/problems/valid-anagram/) |
@@ -168,6 +171,7 @@ Collection of my solutions to coding problems — with source code and explanati
 
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
+| 215 | [Kth Largest Element in an Array](./leetcode/215-kth-largest-element-in-an-array) | [⇨](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions | [Minimize Sum of an Array by at Most K Reductions](./geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions) | [⇨](https://www.geeksforgeeks.org/minimize-sum-of-an-array-by-at-most-k-reductions/) |
 
 
@@ -270,3 +274,10 @@ Collection of my solutions to coding problems — with source code and explanati
 | 278 | [First Bad Version](./leetcode/278-first-bad-version) | [⇨](https://leetcode.com/problems/first-bad-version/) |
 | 875 | [Koko Eating Bananas](./leetcode/875-koko-eating-bananas) | [⇨](https://leetcode.com/problems/koko-eating-bananas/) |
 | 1011 | [Capacity To Ship Packages Within D Days](./leetcode/1011-capacity-to-ship-packages-within-d-days) | [⇨](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
+
+
+### Sort
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| 215 | [Kth Largest Element in an Array](./leetcode/215-kth-largest-element-in-an-array) | [⇨](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
