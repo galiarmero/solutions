@@ -1,5 +1,5 @@
 ---
-categories: array,heap,sort
+categories: array,heap,priority queue,sort
 ---
 
 # [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)

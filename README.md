@@ -56,6 +56,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 238 | [Product of Array Except Self](./leetcode/238-product-of-array-except-self) | [⇨](https://leetcode.com/problems/product-of-array-except-self/) |
 | 242 | [Valid Anagram](./leetcode/242-valid-anagram) | [⇨](https://leetcode.com/problems/valid-anagram/) |
 | 278 | [First Bad Version](./leetcode/278-first-bad-version) | [⇨](https://leetcode.com/problems/first-bad-version/) |
+| 347 | [Top K Frequent Elements](./leetcode/347-top-k-frequent-elements) | [⇨](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 355 | [Design Twitter](./leetcode/355-design-twitter) | [⇨](https://leetcode.com/problems/design-twitter/) |
 | 429 | [N-ary Tree Level Order Traversal](./leetcode/429-n-ary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |
 | 515 | [Find Largest Value in Each Tree Row](./leetcode/515-find-largest-value-in-each-tree-row) | [⇨](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) |
@@ -93,6 +94,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 217 | [Contains Duplicate](./leetcode/217-contains-duplicates) | [⇨](https://leetcode.com/problems/contains-duplicate/) |
 | 238 | [Product of Array Except Self](./leetcode/238-product-of-array-except-self) | [⇨](https://leetcode.com/problems/product-of-array-except-self/) |
 | 242 | [Valid Anagram](./leetcode/242-valid-anagram) | [⇨](https://leetcode.com/problems/valid-anagram/) |
+| 347 | [Top K Frequent Elements](./leetcode/347-top-k-frequent-elements) | [⇨](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 875 | [Koko Eating Bananas](./leetcode/875-koko-eating-bananas) | [⇨](https://leetcode.com/problems/koko-eating-bananas/) |
 | 1011 | [Capacity To Ship Packages Within D Days](./leetcode/1011-capacity-to-ship-packages-within-d-days) | [⇨](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
 
@@ -163,6 +165,8 @@ Collection of my solutions to coding problems — with source code and explanati
 
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
+| 215 | [Kth Largest Element in an Array](./leetcode/215-kth-largest-element-in-an-array) | [⇨](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
+| 347 | [Top K Frequent Elements](./leetcode/347-top-k-frequent-elements) | [⇨](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 355 | [Design Twitter](./leetcode/355-design-twitter) | [⇨](https://leetcode.com/problems/design-twitter/) |
 | geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions | [Minimize Sum of an Array by at Most K Reductions](./geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions) | [⇨](https://www.geeksforgeeks.org/minimize-sum-of-an-array-by-at-most-k-reductions/) |
 
@@ -172,6 +176,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
 | 215 | [Kth Largest Element in an Array](./leetcode/215-kth-largest-element-in-an-array) | [⇨](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
+| 347 | [Top K Frequent Elements](./leetcode/347-top-k-frequent-elements) | [⇨](https://leetcode.com/problems/top-k-frequent-elements/) |
 | geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions | [Minimize Sum of an Array by at Most K Reductions](./geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions) | [⇨](https://www.geeksforgeeks.org/minimize-sum-of-an-array-by-at-most-k-reductions/) |
 
 
@@ -281,3 +286,4 @@ Collection of my solutions to coding problems — with source code and explanati
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
 | 215 | [Kth Largest Element in an Array](./leetcode/215-kth-largest-element-in-an-array) | [⇨](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
+| 347 | [Top K Frequent Elements](./leetcode/347-top-k-frequent-elements) | [⇨](https://leetcode.com/problems/top-k-frequent-elements/) |
