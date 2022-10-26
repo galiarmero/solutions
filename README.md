@@ -11,6 +11,7 @@ Collection of my solutions to coding problems — with source code and explanati
     * [Stack](#stack)
     * [Queue](#queue)
     * [Deque](#deque)
+    * [Linked List](#linked-list)
     * [Priority Queue](#priority-queue)
     * [Heap](#heap)
     * [Tree](#tree)
@@ -35,6 +36,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 12 | [Integer to Roman](./leetcode/12-integer-to-roman) | [⇨](https://leetcode.com/problems/integer-to-roman/) |
 | 13 | [Roman to Integer](./leetcode/13-roman-to-integer) | [⇨](https://leetcode.com/problems/roman-to-integer/) |
 | 20 | [Valid Parentheses](./leetcode/20-valid-parenthesis) | [⇨](https://leetcode.com/problems/valid-parentheses/) |
+| 23 | [Merge k Sorted Lists](./leetcode/23-merge-k-sorted-lists) | [⇨](https://leetcode.com/problems/merge-k-sorted-lists/) |
 | 32 | [Coin Change](./leetcode/32-coin-change) | [⇨](https://leetcode.com/problems/coin-change/) |
 | 35 | [Search Insert Position](./leetcode/35-search-insert-position) | [⇨](https://leetcode.com/problems/search-insert-position/) |
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
@@ -161,10 +163,18 @@ Collection of my solutions to coding problems — with source code and explanati
 | 355 | [Design Twitter](./leetcode/355-design-twitter) | [⇨](https://leetcode.com/problems/design-twitter/) |
 
 
+### Linked List
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| 23 | [Merge k Sorted Lists](./leetcode/23-merge-k-sorted-lists) | [⇨](https://leetcode.com/problems/merge-k-sorted-lists/) |
+
+
 ### Priority Queue
 
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
+| 23 | [Merge k Sorted Lists](./leetcode/23-merge-k-sorted-lists) | [⇨](https://leetcode.com/problems/merge-k-sorted-lists/) |
 | 215 | [Kth Largest Element in an Array](./leetcode/215-kth-largest-element-in-an-array) | [⇨](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | 347 | [Top K Frequent Elements](./leetcode/347-top-k-frequent-elements) | [⇨](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 355 | [Design Twitter](./leetcode/355-design-twitter) | [⇨](https://leetcode.com/problems/design-twitter/) |
@@ -175,6 +185,7 @@ Collection of my solutions to coding problems — with source code and explanati
 
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
+| 23 | [Merge k Sorted Lists](./leetcode/23-merge-k-sorted-lists) | [⇨](https://leetcode.com/problems/merge-k-sorted-lists/) |
 | 215 | [Kth Largest Element in an Array](./leetcode/215-kth-largest-element-in-an-array) | [⇨](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | 347 | [Top K Frequent Elements](./leetcode/347-top-k-frequent-elements) | [⇨](https://leetcode.com/problems/top-k-frequent-elements/) |
 | geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions | [Minimize Sum of an Array by at Most K Reductions](./geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions) | [⇨](https://www.geeksforgeeks.org/minimize-sum-of-an-array-by-at-most-k-reductions/) |
