@@ -16,6 +16,7 @@ Collection of my solutions to coding problems — with source code and explanati
     * [Heap](#heap)
     * [Tree](#tree)
     * [Binary Tree](#binary-tree)
+    * [Binary Search Tree](#binary-search-tree)
     * [Depth-First Search](#depth-first-search)
     * [Breadth-First Search](#breadth-first-search)
     * [Math](#math)
@@ -47,6 +48,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 104 | [Maximum Depth of Binary Tree](./leetcode/104-maximum-depth-of-binary-tree) | [⇨](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
+| 108 | [Convert Sorted Array to Binary Search Tree](./leetcode/108-convert-sorted-array-to-binary-search-tree) | [⇨](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
 | 110 | [Balanced Binary Tree](./leetcode/110-balanced-binary-tree) | [⇨](https://leetcode.com/problems/balanced-binary-tree/) |
 | 111 | [Minimum Depth of Binary Tree](./leetcode/111-minimum-depth-of-binary-tree) | [⇨](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 121 | [Best Time to Buy and Sell Stock](./leetcode/121-best-time-to-buy-and-sell-stock) | [⇨](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
@@ -200,6 +202,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 104 | [Maximum Depth of Binary Tree](./leetcode/104-maximum-depth-of-binary-tree) | [⇨](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
+| 108 | [Convert Sorted Array to Binary Search Tree](./leetcode/108-convert-sorted-array-to-binary-search-tree) | [⇨](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
 | 110 | [Balanced Binary Tree](./leetcode/110-balanced-binary-tree) | [⇨](https://leetcode.com/problems/balanced-binary-tree/) |
 | 111 | [Minimum Depth of Binary Tree](./leetcode/111-minimum-depth-of-binary-tree) | [⇨](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
@@ -221,12 +224,20 @@ Collection of my solutions to coding problems — with source code and explanati
 | 101 | [Symmetric Tree](./leetcode/101-symmetric-tree) | [⇨](https://leetcode.com/problems/symmetric-tree/) |
 | 102 | [Binary Tree Level Order Traversal](./leetcode/102-binary-tree-level-order-traversal) | [⇨](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
 | 104 | [Maximum Depth of Binary Tree](./leetcode/104-maximum-depth-of-binary-tree) | [⇨](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |
+| 108 | [Convert Sorted Array to Binary Search Tree](./leetcode/108-convert-sorted-array-to-binary-search-tree) | [⇨](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
 | 110 | [Balanced Binary Tree](./leetcode/110-balanced-binary-tree) | [⇨](https://leetcode.com/problems/balanced-binary-tree/) |
 | 111 | [Minimum Depth of Binary Tree](./leetcode/111-minimum-depth-of-binary-tree) | [⇨](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 144 | [Binary Tree Preorder Traversal](./leetcode/144-binary-tree-preorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 145 | [Binary Tree Postorder Traversal](./leetcode/145-binary-tree-postorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
 | 515 | [Find Largest Value in Each Tree Row](./leetcode/515-find-largest-value-in-each-tree-row) | [⇨](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) |
 | 2331 | [Evaluate Boolean Binary Tree](./leetcode/2331-evaluate-boolean-binary-tree) | [⇨](https://leetcode.com/problems/evaluate-boolean-binary-tree/) |
+
+
+### Binary Search Tree
+
+| Problem ID | Solution | Problem Specs |
+|--|--|--|
+| 108 | [Convert Sorted Array to Binary Search Tree](./leetcode/108-convert-sorted-array-to-binary-search-tree) | [⇨](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |
 
 
 ### Depth-First Search
