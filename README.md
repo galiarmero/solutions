@@ -76,6 +76,7 @@ Collection of my solutions to coding problems — with source code and explanati
 
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
+| geeksforgeeks/convert-number-to-words | [Convert a given number to words](./geeksforgeeks/convert-number-to-words) | [⇨](https://www.geeksforgeeks.org/convert-number-to-words/) |
 | geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions | [Minimize Sum of an Array by at Most K Reductions](./geeksforgeeks/minimize-sum-of-an-array-by-at-most-k-reductions) | [⇨](https://www.geeksforgeeks.org/minimize-sum-of-an-array-by-at-most-k-reductions/) |
 
 
@@ -101,6 +102,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 347 | [Top K Frequent Elements](./leetcode/347-top-k-frequent-elements) | [⇨](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 875 | [Koko Eating Bananas](./leetcode/875-koko-eating-bananas) | [⇨](https://leetcode.com/problems/koko-eating-bananas/) |
 | 1011 | [Capacity To Ship Packages Within D Days](./leetcode/1011-capacity-to-ship-packages-within-d-days) | [⇨](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
+| geeksforgeeks/convert-number-to-words | [Convert a given number to words](./geeksforgeeks/convert-number-to-words) | [⇨](https://www.geeksforgeeks.org/convert-number-to-words/) |
 
 
 ### String
@@ -114,6 +116,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
 | 125 | [Valid Palindrome](./leetcode/125-valid-palindrome) | [⇨](https://leetcode.com/problems/valid-palindrome/) |
 | 242 | [Valid Anagram](./leetcode/242-valid-anagram) | [⇨](https://leetcode.com/problems/valid-anagram/) |
+| geeksforgeeks/convert-number-to-words | [Convert a given number to words](./geeksforgeeks/convert-number-to-words) | [⇨](https://www.geeksforgeeks.org/convert-number-to-words/) |
 
 
 ### Map
