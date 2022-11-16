@@ -43,6 +43,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 35 | [Search Insert Position](./leetcode/35-search-insert-position) | [⇨](https://leetcode.com/problems/search-insert-position/) |
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
 | 55 | [Jump Game](./leetcode/55-jump-game) | [⇨](https://leetcode.com/problems/jump-game/) |
+| 66 | [Plus One](./leetcode/66-plus-one) | [⇨](https://leetcode.com/problems/plus-one/) |
 | 69 | [Sqrt(x)](./leetcode/69-sqrtx) | [⇨](https://leetcode.com/problems/sqrtx/) |
 | 94 | [Binary Tree Inorder Traversal](./leetcode/94-binary-tree-inorder-traversal) | [⇨](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
 | 100 | [Same Tree](./leetcode/100-same-tree) | [⇨](https://leetcode.com/problems/same-tree/) |
@@ -95,6 +96,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | 35 | [Search Insert Position](./leetcode/35-search-insert-position) | [⇨](https://leetcode.com/problems/search-insert-position/) |
 | 49 | [Group Anagrams](./leetcode/49-group-anagrams) | [⇨](https://leetcode.com/problems/group-anagrams/) |
 | 55 | [Jump Game](./leetcode/55-jump-game) | [⇨](https://leetcode.com/problems/jump-game/) |
+| 66 | [Plus One](./leetcode/66-plus-one) | [⇨](https://leetcode.com/problems/plus-one/) |
 | 121 | [Best Time to Buy and Sell Stock](./leetcode/121-best-time-to-buy-and-sell-stock) | [⇨](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 215 | [Kth Largest Element in an Array](./leetcode/215-kth-largest-element-in-an-array) | [⇨](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | 217 | [Contains Duplicate](./leetcode/217-contains-duplicates) | [⇨](https://leetcode.com/problems/contains-duplicate/) |
