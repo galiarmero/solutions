@@ -33,6 +33,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
 | 1 | [Two Sum](./leetcode/1-two-sum) | [⇨](https://leetcode.com/problems/two-sum/) |
+| 2 | [Add Two Numbers](./leetcode/2-add-two-numbers) | [⇨](https://leetcode.com/problems/add-two-numbers/) |
 | 3 | [Longest Substring Without Repeating Characters](./leetcode/3-longest-substring-without-repeating-characters) | [⇨](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 12 | [Integer to Roman](./leetcode/12-integer-to-roman) | [⇨](https://leetcode.com/problems/integer-to-roman/) |
 | 13 | [Roman to Integer](./leetcode/13-roman-to-integer) | [⇨](https://leetcode.com/problems/roman-to-integer/) |
@@ -172,6 +173,7 @@ Collection of my solutions to coding problems — with source code and explanati
 
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
+| 2 | [Add Two Numbers](./leetcode/2-add-two-numbers) | [⇨](https://leetcode.com/problems/add-two-numbers/) |
 | 23 | [Merge k Sorted Lists](./leetcode/23-merge-k-sorted-lists) | [⇨](https://leetcode.com/problems/merge-k-sorted-lists/) |
 
 
@@ -276,6 +278,7 @@ Collection of my solutions to coding problems — with source code and explanati
 
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
+| 2 | [Add Two Numbers](./leetcode/2-add-two-numbers) | [⇨](https://leetcode.com/problems/add-two-numbers/) |
 | 69 | [Sqrt(x)](./leetcode/69-sqrtx) | [⇨](https://leetcode.com/problems/sqrtx/) |
 
 
