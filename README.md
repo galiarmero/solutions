@@ -86,6 +86,7 @@ Collection of my solutions to coding problems — with source code and explanati
 
 | Problem ID | Solution | Problem Specs |
 |--|--|--|
+| BROKPHON | [Broken Telephone](./codechef/BROKPHON) | [⇨](https://www.codechef.com/problems/BROKPHON) |
 | EZSPEAK | [Easy Pronunciation](./codechef/EZSPEAK) | [⇨](https://www.codechef.com/problems/EZSPEAK) |
 
 
@@ -113,6 +114,7 @@ Collection of my solutions to coding problems — with source code and explanati
 | LeetCode | 875 | [Koko Eating Bananas](./leetcode/875-koko-eating-bananas) | [⇨](https://leetcode.com/problems/koko-eating-bananas/) |
 | LeetCode | 1011 | [Capacity To Ship Packages Within D Days](./leetcode/1011-capacity-to-ship-packages-within-d-days) | [⇨](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |
 | GeeksforGeeks | convert-number-to-words | [Convert a given number to words](./geeksforgeeks/convert-number-to-words) | [⇨](https://www.geeksforgeeks.org/convert-number-to-words/) |
+| CodeChef | BROKPHON | [Broken Telephone](./codechef/BROKPHON) | [⇨](https://www.codechef.com/problems/BROKPHON) |
 | CodeChef | EZSPEAK | [Easy Pronunciation](./codechef/EZSPEAK) | [⇨](https://www.codechef.com/problems/EZSPEAK) |
 
 
