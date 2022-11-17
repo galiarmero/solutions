@@ -9,13 +9,13 @@ class Solution {
     static class FastReader {
         BufferedReader br;
         StringTokenizer st;
-
+  
         public FastReader()
         {
             br = new BufferedReader(
                 new InputStreamReader(System.in));
         }
-
+  
         String next()
         {
             while (st == null || !st.hasMoreElements()) {
@@ -28,16 +28,16 @@ class Solution {
             }
             return st.nextToken();
         }
-
+  
         int nextInt() { return Integer.parseInt(next()); }
-
+  
         long nextLong() { return Long.parseLong(next()); }
-
+  
         double nextDouble()
         {
             return Double.parseDouble(next());
         }
-
+  
         String nextLine()
         {
             String str = "";
@@ -56,7 +56,39 @@ class Solution {
         }
     }
 
+    private final Set<Character> vowels = new HashSet<>(Arrays.asList('a', 'A', 'e', 'E', 'i', 'I', 'o', 'O', 'u', 'U'));
+
+    public boolean isEasyToPronounce(String word) {
+        int consonants = 0;
+
+        for (int i = 0; i < word.length(); i++) {
+            char c = word.charAt(i);   
+
+            if (vowels.contains(c)) {
+                consonants = 0;
+            } else {
+                consonants++;
+
+                if (consonants == 4) return false;
+            }
+        }
+        return true;
+    }
+
+    private void processAndPrint(String word) {
+        System.out.println(isEasyToPronounce(word) ? "YES" : "NO");
+    }
+
     public static void main(String[] args) throws java.lang.Exception {
-        // your code goes here
+        FastReader r = new FastReader();
+        Solution solution = new Solution();
+        int n = r.nextInt();
+
+        while (n-- > 0) {
+            r.nextInt();
+            String word = r.nextLine();
+            solution.processAndPrint(word);
+        }
     }
 }
+
