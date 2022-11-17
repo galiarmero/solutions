@@ -5,7 +5,7 @@ import jinja2
 
 
 def main():
-    platforms = { 'leetcode': 'LeetCode', 'geeksforgeeks': 'GeeksforGeeks' }
+    platforms = { 'leetcode': 'LeetCode', 'geeksforgeeks': 'GeeksforGeeks', 'codechef': 'CodeChef' }
     ordered_categories = ['array', 'string', 'map', 'set', 'stack', 'queue', 'deque', 'linked list', 'priority queue', 'heap', 'tree', 'binary tree', 'binary search tree', 'depth-first search', 'breadth-first search', 'math', 'dynamic programming', 'greedy', 'binary search']
     by_platform = _get_solutions_by_platform(platforms)
     by_category = _sort_by_category(by_platform, ordered_categories)
@@ -65,7 +65,7 @@ def _get_problem_id(path, platform):
             return int(match[0])
         return None
     else:
-        return path
+        return os.path.basename(path)
 
 
 def _get_title_and_link(readme):

@@ -29,9 +29,9 @@ Collection of my solutions to coding problems — with source code and explanati
 
 ### {{ category.title() }}
 
-| Problem ID | Solution | Problem Specs |
-|--|--|--|
+| Platform | Problem ID | Solution | Problem Specs |
+|--|--|--|--|
     {% for solution in solutions %}
-| {{ solution.problem_id }} | [{{ solution.title}}]({{ solution.path }}) | [⇨]({{ solution.link }}) |
+| {{ platforms[solution.platform] }} | {{ solution.problem_id }} | [{{ solution.title}}]({{ solution.path }}) | [⇨]({{ solution.link }}) |
     {% endfor %}
 {% endfor %}
